@@ -1,0 +1,12 @@
+pandas
+numpy
+datasets
+transformers
+torch
+matplotlib
+imbalanced-learn
+scikit-learn
+nltk
+nlpaug
+googletrans
+streamlit
