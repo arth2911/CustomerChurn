@@ -56,16 +56,27 @@ This project aims to predict whether a customer is likely to churn using a combi
 
 ---
 
-## 🖥️ Web App Preview
+## 📁 Project Structure
 
 A simple and intuitive **Streamlit dashboard** for:
 - Real-time churn prediction
 - SHAP visualizations for each prediction
 - User-friendly interface
-
-![App Screenshot](demo/screenshot.png) *(Add your screenshot here)*
+CustomerChurnML/
+│
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter notebooks for EDA, modeling
+├── src/ # Source code for modeling and dashboard
+├── streamlit_app.py # Streamlit main app file
+├── requirements.txt # Python dependencies
+├── README.md
 
 ---
 
-## 📁 Project Structure
+Author
+Arth Patel
+📧 patel.arth2@northeastern.edu
+🔗 https://www.linkedin.com/in/arth-patel-2691b322a/
+
+
 
